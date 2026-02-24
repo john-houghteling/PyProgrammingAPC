@@ -1,0 +1,8 @@
+# My PS1 with git status and time string
+GIT_PS1_SHOWDIRTYSTATE=true
+GIT_PS1_SHOWSTASHSTATE=true
+GIT_PS1_SHOWUNTRACKEDFILES=true
+GIT_PS1_SHOWUPSTREAM="auto"
+GIT_PS1_HIDE_IF_PWD_IGNORED=true
+GIT_PS1_SHOWCOLORHINTS=true
+export PS1="\t \[\033[01;32m\]\w\[\033[01;33m\]\$(__git_ps1)\[\033[01;00m\] $ "
