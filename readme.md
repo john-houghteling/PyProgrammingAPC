@@ -5,7 +5,7 @@ This repository contains material for the course on Python programming and relat
 The structure of the directory is as follows:
 
 - [slides](slides) contains the slides presented at odd lecture
-- [hands_on](hands_on) contains the exercises done during even lectures
+- [hands-on](hands-on) contains the exercises done during even lectures
 - [misc](misc) contains additional useful material
 
 The structure of the lectures are as follows:
